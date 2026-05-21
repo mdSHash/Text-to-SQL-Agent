@@ -1,0 +1,15 @@
+# LangGraph and LangChain for agent orchestration
+langgraph>=0.2.0,<0.3.0
+langchain>=0.3.0,<0.4.0
+google-genai>=0.2.0,<1.0.0
+
+# UI Framework
+streamlit>=1.39.0,<2.0.0
+
+# Data manipulation
+pandas>=2.2.0,<3.0.0
+
+# Environment variables
+python-dotenv>=1.0.0,<2.0.0
+
+# Note: sqlite3 is included in Python standard library (no installation needed)
